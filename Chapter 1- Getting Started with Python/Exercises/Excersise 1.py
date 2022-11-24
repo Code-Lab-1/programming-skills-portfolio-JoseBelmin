@@ -1,0 +1,5 @@
+## Exercise 1: Print Strings :ballot_box_with_check:
+
+#Write a Python program to print the following string in a specific format.
+print("Twinkle, twinkle, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\t"
+"Like a diamond in the sky. \nTwinkle, twinkle, little star, \n\tHow I wonder what you are!")
